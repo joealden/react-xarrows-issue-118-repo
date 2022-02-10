@@ -1,13 +1,13 @@
 import "./styles.css";
 
-import Xarrow from "react-xarrows";
+// import Xarrow from "react-xarrows";
 
 export default function App() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <Xarrow start="" end="" />
+      {/* <Xarrow start="" end="" /> */}
     </div>
   );
 }
